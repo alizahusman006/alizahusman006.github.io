@@ -1,29 +1,22 @@
-# Alizah Usman — Portfolio
+# Hi, I'm Alizah Usman 👋
 
-A simple portfolio site for my GitHub profile.
+First-year Computer Science student at **Kinnaird College for Women** (2025–2029).
 
-## View locally
+I'm learning programming and building projects to grow my skills. Check out my portfolio below.
 
-Open `index.html` directly in your browser:
+🌐 **Portfolio:** [alizahusman006.github.io](https://alizahusman006.github.io)  
+💻 **GitHub:** [alizahusman006](https://github.com/alizahusman006)  
+📧 **Email:** alizahusman115@gmail.com
 
-- **Mac:** Double-click `index.html`, or run `open index.html` in this folder
-- **URL:** `file:///Users/alizahusman/projects/my%20profile/index.html`
+---
 
-## Deploy to GitHub Pages
+### Skills
+`HTML` `CSS` `JavaScript` `C++` `GitHub`
 
-1. Create a repo on GitHub named `alizahusman006.github.io`
-2. Push this folder to the repo
-3. Go to **Settings → Pages** and set source to `main` branch
-4. Your site will be live at: **https://alizahusman006.github.io**
+### Currently Learning
+`Python`
 
-## Link from your GitHub profile
-
-Add this to your profile README:
-
-```markdown
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://alizahusman006.github.io)
-```
-
-## Customize
-
-Edit `index.html` to update your bio, skills, and contact info.
+### Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge)](https://alizahusman006.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-alizahusman006-1a1a1a?style=for-the-badge&logo=github)](https://github.com/alizahusman006)
+[![Email](https://img.shields.io/badge/Email-alizahusman115@gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizahusman115@gmail.com)
